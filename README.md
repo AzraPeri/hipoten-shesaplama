@@ -1,1 +1,1 @@
-# hipoten-shesaplama
+# hipotenüs_hesaplama
